@@ -1,0 +1,8 @@
+
+##commands to run when won
+##placeholders:
+##%player% - player who won
+
+commands:
+  - say You won the prize!
+  - give %player% dirt 5

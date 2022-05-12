@@ -1,0 +1,13 @@
+name: ScavengerHunt
+version: '1.18'
+main: me.squeaky2137.scavengerhunt.Main
+api-version: 1.18
+authors: [ squekay2137 ]
+description: A plguin to create scavenger hunts etc
+commands:
+  huntreload:
+    description: reload the config file
+    usage: /<command>
+  gethead:
+    description: get the head to place
+    usage: /<command>
